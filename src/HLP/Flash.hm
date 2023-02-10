@@ -1,0 +1,27 @@
+// MAKEHELP.BAT generated Help Map file.  Used by FLASH.HPJ. 
+ 
+// Commands (ID_* and IDM_*) 
+HIDM_INTRO                              0x1006E
+HIDM_CLEARSTATS                         0x18003
+HIDM_MULTIPLECHOICE                     0x18004
+HIDM_SHOWANSWER                         0x18005
+HIDM_TYPEINANSWER                       0x18006
+HIDM_EDITFILE                           0x18008
+ 
+// Prompts (IDP_*) 
+ 
+// Resources (IDR_*) 
+HIDR_MAINFRAME                          0x20080
+HIDR_FLASHTYPE                          0x20081
+HIDR_MAINFRAME1                         0x20081
+ 
+// Dialogs (IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_DIALOG1                            0x20069
+HIDD_DIALOG2                            0x2006A
+HIDD_MultipleChoice                     0x20073
+HIDD_ShowAnswer                         0x20074
+HIDD_MCShowCorrect                      0x20075
+HIDD_TypeInAnswer                       0x20076
+ 
+// Frame Controls (IDW_*) 

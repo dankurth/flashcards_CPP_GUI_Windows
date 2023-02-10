@@ -1,3 +1,6 @@
+src/Release/
+src/Debug/
+
 # Prerequisites
 *.d
 
