@@ -1,6 +1,6 @@
 # flash
 
-![screenshot](docs/assets/images/showCardAnswer.png?raw=true)
+![screenshot](docs/assets/images/runOnWindows/showCardAnswer.png?raw=true)
 
 This program was developed as a study aid. It works like flash cards but
 with the added advantage that it keeps track of which cards you have
