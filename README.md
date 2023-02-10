@@ -26,6 +26,6 @@ Unlike the console version it does not run on Linux, but does have a built in fe
 to create and edit cards (said files have extension .FSF for Flash Study File).
 
 It also runs on my 64-bit Windows 10 machine, but currently the Help functionality is
-broken for that that and (I presume) later versions of Windows.
+broken for that, and (I presume) later versions of Windows.
 
 
